@@ -7,7 +7,7 @@ while (num != 1) {
   while (temp > 0) {
     let digit = temp % 10;
     sum += digit * digit;
-    console.log(sum);
+    cons,ole.log(sum);
     temp = Math.floor(temp / 10);
   }
 }

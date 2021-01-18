@@ -1,4 +1,4 @@
-
+//the program accept 3 numbers, and doubles them, and display the sing.
 
 
 let x = Number(prompt("enter the first number"));

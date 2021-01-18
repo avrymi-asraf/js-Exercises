@@ -22,5 +22,5 @@ switch(true) {
         alert('the grade is D')
         break
     default:
-        alert('the grade is F');
+        alert('the grade is F')
 }
